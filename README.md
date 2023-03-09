@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruyahs
-- 👀 I’m interested in Programming , AI and web Technologies
-- 🌱 I’m currently learning React and Ionic
-- 💞️ I’m looking to collaborate on Android and graphics engines
+- 👀 I’m interested in Programming , AI and web Technologies (Streaming mainly) 
+- 🌱 I’m currently learning Pixi.js and Keras
+- 💞️ I’m looking to collaborate on Anything Webrelated, espescially realtime streaming
 - 📫 How to reach me shayurb@gmail.com
 
 <!---
