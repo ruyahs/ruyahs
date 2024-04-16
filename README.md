@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruyahs
 - 👀 I’m interested in Programming , AI and web Technologies (Streaming mainly) 
-- 🌱 I’m currently learning Pixi.js and Keras
+- 🌱 I’m currently learning Pixi.js and pytorch
 - 💞️ I’m looking to collaborate on Anything Webrelated, espescially realtime streaming
 - 📫 How to reach me shayurb@gmail.com
 
